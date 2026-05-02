@@ -29,5 +29,4 @@ L'application propose une interface utilisateur pour :
 3. Synchronisez le projet avec les fichiers Gradle.
 4. Lancez l'application sur un émulateur ou un appareil physique.
 
----
-*Projet réalisé à la FST (Faculté des Sciences et Techniques).*
+
